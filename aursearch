@@ -3,7 +3,7 @@
 # Aursearch
 #
 # search and install packages from the AUR
-# @author William Hleucka william.hleucka@gmail.com
+# @author William Hleucka <william.hleucka@gmail.com>
 #
 #
 if  [[ $# -eq 0 ]]; then
