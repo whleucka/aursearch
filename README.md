@@ -1,6 +1,4 @@
 # aursearch
-Search and install Arch Linux packages with fzf.
-
 A simple script to pipe results from `yay -Ss` to `fzf`. You can select the package you want to install
 from the PUM.
 
