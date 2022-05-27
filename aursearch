@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 #
-# Aursearch
+# aursearch
 #
 # search and install packages from the AUR
 # @author William Hleucka <william.hleucka@gmail.com>
