@@ -1,5 +1,7 @@
 # aursearch
-Search and install packages in fzf. Behind the scenes, it is basically feeding
+Search and install Arch Linux packages in fzf.
+
+Behind the scenes, it is basically feeding
 results from `yay -Ss` to fzf. You can select the package you want to install
 from the PUM by pressing Enter.
 
